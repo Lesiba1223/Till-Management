@@ -1,0 +1,10 @@
+Till Start, Transaction Total, Paid, Change Total, Change Breakdown
+R500, R54, R60, R6, R
+R554, R113, R200, R87, R
+R667, R73, R100, R27, R
+R740, R210, R250, R40, R20-20
+R950, R286, R300, R14, R
+R1236, R66, R66, R0, R
+R1302, R79, R90, R11, R10
+R1381, R76, R76, R0, R
+R1457
